@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">InClassAssignment06-VilmarieT</string>
+    <string name="main_category_name">Drink Name</string>
+    <string-array name="alcohol_options">
+        <item>Choose Base Alcohol</item>
+        <item>Rum</item>
+        <item>Vodka</item>
+        <item>Tequila</item>
+        <item>Whiskey</item>
+    </string-array>
+    <string name="checkbox">On the rocks?</string>
+    <string name="edit_text_alcohol">Base Alcohol</string>
+    <string name="total_number_ingredients">Total Number of Ingredients</string>
+    <string name="submit">Mix it up!</string>
+</resources>
